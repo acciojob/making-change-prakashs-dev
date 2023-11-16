@@ -1,10 +1,10 @@
 const makeChange = (c) => {
   // your name here
-	let coin{
+	let coin = {
 		q: 25,
 		d: 10,
 		n: 5,
-		p: 1
+		p: 1,
 	};
 	let obj = {};
 	for(let i in coin){
